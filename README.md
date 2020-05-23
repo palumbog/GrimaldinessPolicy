@@ -1,11 +1,11 @@
 # GrimaldinessPolicy
 ## Normativa sui dati di Grimaldiness.
-Questa normativa descrive le informazioni che trattiamo per supportare BeFunctional.
+Questa normativa descrive le informazioni che trattiamo per supportare Grimaldiness.
 
 ### I. Quali tipi di informazioni raccogliamo?
-Le informazioni che vengono raccolte al fine del corretto funzionamento dell'applicazione sono nome, cognome, informazioni relative alle prenotazioni effettuate e messaggi che vengono inviati tramite l'app.
+Le informazioni che vengono raccolte al fine del corretto funzionamento dell'applicazione sono nome, cognome,codice fiscale, email ed informazioni relative alle prenotazioni effettuate e messaggi che vengono inviati tramite l'app.
 #### Azioni che tu e altri effettuate ed elementi che fornite.
-Raccogliamo i contenuti, le comunicazioni e le altre informazioni che fornisci quando usi BeFunctional quando effettui una prenotazione, invii messaggi o comunichi con le altre persone. Può trattarsi di informazioni presenti nei contenuti forniti o relative a essi (come i metadati), ad esempio la data in cui è stata effettuata una prenotazione. I nostri sistemi trattano automaticamente contenuti e comunicazioni che tu o altri fornite per analizzarne contesto e contenuti per le finalità descritte qui sotto.
+Raccogliamo i contenuti, le comunicazioni e le altre informazioni che fornisci quando usi Grimaldiness quando effettui una prenotazione, invii messaggi o comunichi con le altre persone. Può trattarsi di informazioni presenti nei contenuti forniti o relative a essi (come i metadati), ad esempio la data in cui è stata effettuata una prenotazione. I nostri sistemi trattano automaticamente contenuti e comunicazioni che tu o altri fornite per analizzarne contesto e contenuti per le finalità descritte qui sotto.
 #### Informazioni sul dispositivo
 Le informazioni che raccogliamo da questi dispositivi comprendono:
 Stato della connessione ad internet: questa informazione ci è utile al fine di aggiornare i contenuti a connessione effettuata.
