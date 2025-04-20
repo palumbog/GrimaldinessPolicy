@@ -4,7 +4,7 @@ Per eliminare il tuo account segui i seguenti passaggi:
 ## II. Andare nella pagina "Profilo"
 ## III. Cliccare il bottone "Elimina Account" e confermare.
 
-Puoi mandare una email alla seguente casella per richiedere l'eliminazione parziale dei dati senza cancellare l'account oppure chiedere una eliminazione totale dei dai.
+Puoi mandare una email alla seguente casella per richiedere l'eliminazione parziale dei dati senza cancellare l'account oppure chiedere una eliminazione totale dei dati.
 pepomaster14@gmail.com
 
 Data dell'ultima revisione: 20/04/2025
