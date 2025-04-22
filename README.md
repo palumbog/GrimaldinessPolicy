@@ -21,7 +21,7 @@ I dati forniti non vengono condivisi con partner terzi.
     
 ### IV. Quali sono le nostre basi legali per il trattamento dei dati?
 Raccogliamo, usiamo e condividiamo i dati in nostro possesso nelle modalità descritte in precedenza:
-in modo coerente con il consenso concesso, che può essere revocato in qualsiasi momento rivolgendosi a pepomast21@hotmail.it
+in modo coerente con il consenso concesso, che può essere revocato in qualsiasi momento rivolgendosi a pepomaster14@gmail.com
 
 ### V. Come esercitare i diritti previsti dal GDPR?
 Il General Data Protection Regulation (regolamento generale sulla protezione dei dati) riconosce il diritto di accedere ai propri dati, rettificarli, trasferirli ed eliminarli . Scopri di più su questi diritti e su come esercitarli . Hai anche il diritto di opposizione e il diritto di limitare l'elaborazione dei tuoi dati.
