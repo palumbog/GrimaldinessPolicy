@@ -36,7 +36,7 @@ Ti informeremo prima di apportare modifiche alla presente normativa e ti consent
 Se hai domande su questa normativa, contattaci con le modalità descritte qui sotto.
 Il titolare del trattamento dei dati responsabile delle tue informazioni è Giuseppe Palumbo, che puoi contattare onlineo tramite posta all'indirizzo:
 
-pepomaster10@gmail.com
+pepomaster14@gmail.com
 
 
-Data dell'ultima revisione: 20 giugno 2019 
+Data dell'ultima revisione: 22 aprile 2025 
